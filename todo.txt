@@ -1,0 +1,4 @@
+-Show nearby networks and RSSI
+-Get the info into a CSV format or something so it can be easily fed into an android app
+-Add ability to log into a network and do stuff
+	-Scan
